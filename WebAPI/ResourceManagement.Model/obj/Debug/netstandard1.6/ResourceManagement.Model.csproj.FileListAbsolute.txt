@@ -1,0 +1,89 @@
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.deps.json
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\bin\Debug\netstandard1.6\ResourceManagement.Model.pdb
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csprojResolveAssemblyReference.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.csproj.CoreCompileInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfoInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.AssemblyInfo.cs
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.Model\obj\Debug\netstandard1.6\ResourceManagement.Model.pdb

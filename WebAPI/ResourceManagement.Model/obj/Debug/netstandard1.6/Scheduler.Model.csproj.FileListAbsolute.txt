@@ -1,0 +1,8 @@
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\bin\Debug\netstandard1.6\Scheduler.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.Model\obj\Debug\netstandard1.6\Scheduler.Model.pdb

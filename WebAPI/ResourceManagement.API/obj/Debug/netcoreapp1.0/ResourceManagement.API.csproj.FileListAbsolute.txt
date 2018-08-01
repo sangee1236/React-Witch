@@ -1,0 +1,113 @@
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+D:\Timesheet\1102018_new\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+F:\job\Projects\Timesheet\git\1112018\Timesheetv1.0\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+D:\Timesheet\1162018\Confidential\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\1612018\Conf\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\git\2112018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.deps.json
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.json
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.API.pdb
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Data.pdb
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.0\ResourceManagement.Model.pdb
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.AssemblyInfo.cs
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.csproj.CopyComplete
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.dll
+F:\job\excelencia\Projects\Office Demo projects\Timesheet\git\18032018\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.0\ResourceManagement.API.pdb

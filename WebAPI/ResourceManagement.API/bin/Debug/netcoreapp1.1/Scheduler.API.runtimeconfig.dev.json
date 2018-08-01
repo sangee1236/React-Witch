@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sironmanip\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sironmanip\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csprojResolveAssemblyReference.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.runtimeconfig.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.runtimeconfig.dev.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Data.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Data.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csprojResolveAssemblyReference.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.dev.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.deps.json
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.json
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.dev.json
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.pdb
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csprojResolveAssemblyReference.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csproj.CoreCompileInputs.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfoInputs.cache
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfo.cs
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.dll
+D:\Remesh\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.deps.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.runtimeconfig.dev.json
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.API.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Data.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\bin\Debug\netcoreapp1.1\ResourceManagement.Model.pdb
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csprojResolveAssemblyReference.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.csproj.CoreCompileInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfoInputs.cache
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.AssemblyInfo.cs
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.dll
+F:\job\Projects\Timesheet\Timesheet-20171024T205334Z-001\Timesheet\WebAPI\ResourceManagement.API\obj\Debug\netcoreapp1.1\ResourceManagement.API.pdb

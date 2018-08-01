@@ -1,0 +1,16 @@
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.deps.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.runtimeconfig.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.runtimeconfig.dev.json
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.API.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Data.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Model.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Data.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\bin\Debug\netcoreapp1.1\Scheduler.Model.pdb
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.csprojResolveAssemblyReference.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.csproj.CoreCompileInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.AssemblyInfoInputs.cache
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.AssemblyInfo.cs
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.dll
+D:\Sironmani bkp\Samples\dotnetcore-entityframework-api-master\Scheduler.API\obj\Debug\netcoreapp1.1\Scheduler.API.pdb
